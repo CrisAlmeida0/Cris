@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(69, 121, 121);
+}
+div{
+    background-color: black;
+    color: white;
+}
+
+
+h1{
+    text-align: center;
+}
+fieldset{
+    width: 5cm;
+    height: 5cm;
+    margin-left: 40%;
+}
+input{
+    border-radius: 10px;
+}
+button{
+    align-self: center;
+    margin-left: 1.75cm;
+}
+h2{
+    text-align: center;
+}
+img{
+    width: 50%;
+    height: 50%;
+    margin-bottom: 5cm;
+    margin-left: 9cm;
+}
